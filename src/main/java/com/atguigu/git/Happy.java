@@ -1,14 +1,12 @@
 package com.atguigu.git;
 /**
  * 
- * @author ²âÊÔÀà
+ * @author ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  *
  */
 public class Happy {
 	public static void main(String[] args) {
-	System.out.println("ÎÒÊÇÒ»¸ö¸ßĞËÀà,ÎÒÊÇµÚÒ»¸öÓÃ»§");
-		System.out.println("ÎÒÊÇÒ»¸ö¸ßĞËÀà,ÄãºÃÑ½");
-		System.out.println("ÎÒÊÇÁíÒ»¸öÓÃ»§");
+       System.out.print("æˆ‘çœŸæ˜¯å¤ªé«˜å…´äº†");
 	}
 
 }
